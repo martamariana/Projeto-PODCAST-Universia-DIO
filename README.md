@@ -1,5 +1,5 @@
 # Tarefa-PODCAST-Universia-DIO
-curso DIO universia - IA  Criar podcast com IA
+Curso DIO universia - IA   - tarefa: Criar podcast com IA
 
 1. Visão Geral do Projeto
 
